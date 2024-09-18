@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.5;
+  background-color: gainsboro;
+  font-size: 1rem;
+}
+.container {
+  background-color: #222;
+  color: #fff;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+.first-container span {
+  font-size: 2rem;
+  color: red;
+}
+.first-container h2 {
+  color: cadetblue;
+  font-size: 2rem;
+  text-transform: capitalize;
+  letter-spacing: 0.25rem;
+}
+.container p {
+  text-transform: capitalize;
+  letter-spacing: 0.25rem;
+}
+.second-container span {
+  color: yellow;
+  font-size: 2rem;
+}
+.second-container h2 {
+  text-transform: capitalize;
+  letter-spacing: 0.25rem;
+  font-size: 2rem;
+  color: hotpink;
+}
